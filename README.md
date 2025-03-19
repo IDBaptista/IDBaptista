@@ -1,6 +1,12 @@
-## Oii eu sou a Isabelly Dias Baptista, estudante de programação e tecnologia!
+## Bem vindo(a) ao meu Git!! 💙
 
-<div style="display: inline_block"><br>
-  
-</div>
+<p align="center">
+  <i>Meu nome é Isa</i>
+</p>
+
+## Tecnologia e Curso
+
+<p>
+  <img src= "https://img.shields.io/badge/HTML-Rosa?style=for-the-badge&logo=html5&logoColor=white&color=blue">
+</p>
 
