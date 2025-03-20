@@ -1,5 +1,7 @@
 ## Bem vindo(a) ao meu Git!! 💙
 
+## Tecnologias e Programação 
+
 ## Contatos
 
 <a href = "mailto:isabelly.diasbap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
