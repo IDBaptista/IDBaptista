@@ -16,4 +16,4 @@
 
 <a href="https://www.linkedin.com/in/isabelly-dias-baptista-13a95b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### 🔹
+<i> Obrigada pela sua visita 🤍 </i>
