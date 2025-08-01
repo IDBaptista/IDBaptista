@@ -6,7 +6,7 @@
 ## Tecnologias e Ferramentas 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
 
-## Estatísticas 
+## Estatísticas 💫
 <div align="center">
   <a href="https://github.com/IDBaptista">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IDBaptista&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
