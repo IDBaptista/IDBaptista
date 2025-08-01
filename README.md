@@ -15,8 +15,7 @@
 
 
 ## Entre em contato! 📱
-- 🌊 LinkdIn: [in/daniel-petinice](https://www.linkedin.com/in/daniel-petinice/)
-- 📮 Email: daniel.petinice@gmail.com
+- 🌊 LinkdIn: [in/isabelly-baptista](https://www.linkedin.com/in/isabelly-dias-baptista-13a95b278/)
+- 📮 Email: isabelly.diasbap@gmail.com
 
 <i> Obrigada pela sua visita 🤍 </i>
-/
