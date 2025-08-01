@@ -2,7 +2,7 @@
 
 <i>Eu sou a Isa e é um prazer te ter aqui no meu GitHub!! 💫</i>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite)](https://skillicons.dev)
 
 ## Tecnologias e Programação 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue&color=white)
