@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu Git Hub!! 💙
 
-<i>Estudante de DEV (3/4)</i>
+<i>Eu sou a Isabelly Estudante de DEV (3/4)</i>
 
 ## Tecnologias e Programação 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
