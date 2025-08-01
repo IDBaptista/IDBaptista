@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu Git!! 💙
 
-<i>Eu sou a Isa e é um prazer te ter aqui no meu GitHub!! 💫</i>
+<i>Estudante de DEV SENAI!! 💫</i>
 
 ## Tecnologias e Programação 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
