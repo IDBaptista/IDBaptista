@@ -15,9 +15,8 @@
 
 
 ## Entre em contato! 📱
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isabelly-dias-baptista-13a95b278/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](isabelly.diasbap@gmail.com)
+- 🌊 LinkdIn: [in/daniel-petinice](https://www.linkedin.com/in/daniel-petinice/)
+- 📮 Email: daniel.petinice@gmail.com
 
 <i> Obrigada pela sua visita 🤍 </i>
 /
