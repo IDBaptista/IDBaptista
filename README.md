@@ -17,7 +17,7 @@
 ## Entre em contato! 📱
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isabelly-dias-baptista-13a95b278/)
-
+[![Gmail](https://skillicons.dev/icons?i=gmail)](isabelly.diasbap@gmail.com)
 
 <i> Obrigada pela sua visita 🤍 </i>
 /
