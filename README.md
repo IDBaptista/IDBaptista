@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu Git!! 💙
+## Bem vindo(a) ao meu Git Hub!! 💙
 
 <i>Estudante de DEV (3/4)</i>
 
