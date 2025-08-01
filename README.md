@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu Git Hub!! 💙
 
-## Sobre mim ☽
+## Sobre mim ≽^• ˕ • ྀི≼
 <i>Eu sou a Isabelly e sou estudante de Desenvolvimento de Sistemas no SENAI, sempre me interessei pela área e após o início do curso desenvolvi conhecimento em HTML, CSS, SQLITE, Python - Flask e JavaScript. Possuo afinidade em Back-end e maior visão de carreira nesta área da tecnologia. Com foco em possuir experiência na área e mostrar meus projetos como forma de aprentar o conhecimento adquirido durante e após o curso. <br> <br> 4/4 Semestres </i>
 
 ## Tecnologias e Ferramentas 
