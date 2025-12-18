@@ -4,7 +4,7 @@
 <i>Eu sou a Isabelly e sou formada em Desenvolvimento de Sistemas pelo SENAI-SP, desenvolvi conhecimentos em HTML, CSS, SQLITE, Python - Flask e JavaScript. Possuo afinidade em Back-end e maior visão de carreira nesta área da tecnologia. Com foco em construir experiência na área e mostrar meus projetos como forma de apresentar o conhecimento adquirido.<br> 
 
 ## Tecnologias e Ferramentas 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode,flask,mysql,canva,canva)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode,flask,mysql,windows)](https://skillicons.dev)
 
 ## Estatísticas 
 <div align="center">
