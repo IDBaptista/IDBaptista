@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao meu Git Hub!! 💙
 
 ## Sobre mim
-<i>Eu sou a Isabelly e sou estudante de Desenvolvimento de Sistemas no SENAI, sempre me interessei pela área e após o início do curso desenvolvi conhecimento em HTML, CSS, SQLITE, Python - Flask e JavaScript. Possuo afinidade em Back-end e maior visão de carreira nesta área da tecnologia. Com foco em possuir experiência na área e mostrar meus projetos como forma de aprentar o conhecimento adquirido durante e após o curso. <br> <br> 4/4 Semestres </i>
+<i>Eu sou a Isabelly e sou formada em Desenvolvimento de Sistemas pelo SENAI-SP, desenvolvi conhecimentos em HTML, CSS, SQLITE, Python - Flask e JavaScript. Possuo afinidade em Back-end e maior visão de carreira nesta área da tecnologia. Com foco em construir experiência na área e mostrar meus projetos como forma de apresentar o conhecimento adquirido.<br> 
 
 ## Tecnologias e Ferramentas 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode)](https://skillicons.dev)
