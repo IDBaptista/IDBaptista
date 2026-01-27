@@ -10,6 +10,5 @@
 ## Entre em contato! 📱
 - 🌊 LinkedIn: [in/IDBaptista](www.linkedin.com/in/idbaptista)
 - 📮 Email: isabelly.diasbap@gmail.com
-- 🌌 Portfolio: [IDBaptista](https://portfolio-tf9j.onrender.com/)
 
 <i> Obrigada pela sua visita 🤍 </i>
