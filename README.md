@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao meu Git Hub!! 💙
 
 ## Sobre mim
-<i>É um prazer tê-lo aqui. Me chamo Isabelly, sou formada em Desenvolvimento de Sistemas pelo SENAI-SP e estou cursando Ciência de Dados pela FATEC Santana de Parnaíba.
+<i>É um prazer tê-lo aqui. Me chamo Isabelly, sou formada em Desenvolvimento de Sistemas pelo SENAI-SP e estou cursando Ciência de Dados pela FATEC Santana de Parnaíba.<br>
 Possuo conhecimentos em HTML, CSS, SQLITE, Python - Flask, Pandas e JavaScript. Com afinidade em Back-end e área de dados tenho uma maior visão de carreira nesta área da tecnologia. Com foco em construir experiência na área e mostrar meus projetos como forma de apresentar o conhecimento adquirido.<br> 
 
 ## Tecnologias e Ferramentas 
