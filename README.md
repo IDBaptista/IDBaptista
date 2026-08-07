@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu Git Hub!! 💙
+## Bem vindo(a) ao meu Git Hub!!
 
 ## Sobre mim
 <i>É um prazer tê-lo aqui. Me chamo Isabelly, sou formada em Desenvolvimento de Sistemas pelo SENAI-SP e estou cursando Ciência de Dados pela FATEC Santana de Parnaíba.<br>
