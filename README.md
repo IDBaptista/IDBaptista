@@ -12,4 +12,4 @@ Possuo conhecimentos em HTML, CSS, SQLITE, Python - Flask, Pandas e JavaScript. 
 - 🌊 LinkedIn: [in/IDBaptista](www.linkedin.com/in/idbaptista)
 - 📮 Email: isabelly.diasbap@gmail.com
 
-<i> Obrigada pela sua visita </i>
+<i> Obrigada pela sua visita. </i>
