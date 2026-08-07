@@ -6,7 +6,7 @@ Possuo conhecimentos em HTML, CSS, SQLITE, Python - Flask, Pandas e JavaScript. 
 
 ## Tecnologias e Ferramentas 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,py,sqlite,vscode,flask,mysql,windows,apple)](https://skillicons.dev)
-[![]()](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg)
+[![Grafico](https://raw.githubusercontent.com/AndrewDongminYoo/wakatime-svg/output/generated/languages.svg)]()
 
 
 ## Entre em contato! 📱
